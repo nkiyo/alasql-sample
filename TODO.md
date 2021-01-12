@@ -1,12 +1,11 @@
 
-HAVING
 VIEW
 CASE
 INSERT
 DELETE
-TRUNCATE
 
 
+HAVING
 EXCEPT
 UNION
 INTERSECT
@@ -17,3 +16,4 @@ IN
 ORDER BY
 UPDATE => 無理?? https://github.com/agershun/alasql/issues/348
 COUNT
+TRUNCATE
